@@ -12,7 +12,7 @@
 <div dir="rtl">1. <a href="https://github.com/Sourasky-DHLAB/LLMs/blob/main/Colab/llama_index_chatgpt.ipynb">llama_index_chatgpt.ipynb</a>: מחברת להוספת ידע חדש אל ChatGPT של חברת OpenAI. באמצעות מחברת זו ניתן לתשאל בשפה טבעית כל קובץ PDF שנמצא ברשותכם. <strong>העבודה עם מחברת זו מחייבת רכישת מפתח API של חברת OpenAI.</strong></div>
 <div dir="rtl"><br />2. <a href="https://github.com/Sourasky-DHLAB/LLMs/blob/main/Colab/llama_index_private_llm.ipynb">llama_index_private_llm.ipynb</a>: מחברת להתקנת מודל שפה באופן מקומי בסביבת Colab. מחברת זו תלווה את המשתמשים בהתקנת מודל שפה בעל 5 מיליארד פרמטרים. לאחר ההתקנה המשתמשים יוכלו להוסיף למודל ידע חדש ולתשאל בשפה טבעית קבצים הנמצאים ברשותם.&nbsp;</div>
 <div dir="rtl">&nbsp;</div>
-<div dir="rtl">שתי המחברות משתמשות במסגרת פיתוח בשם <a href="https://gpt-index.readthedocs.io/en/latest/">llama index</a>, המאפשרת לחבר מקורות מידע שונים למודלי שפה גדולים. בעתיד הקרוב נוסיף מחברות נוספות המשתמשות במסגרת פיתוח דומה בשם <a href="https://python.langchain.com/docs/get_started/introduction.html">langchain</a>, דרכה נדגים תשאול עבודה עם קבצי טקסט ו-CSV.<br /><br />
+<div dir="rtl">שתי המחברות משתמשות במסגרת פיתוח בשם <a href="https://gpt-index.readthedocs.io/en/latest/">llama index</a>, המאפשרת לחבר מקורות מידע שונים למודלי שפה גדולים. בעתיד הקרוב נוסיף מחברות המשתמשות במסגרת פיתוח דומה בשם <a href="https://python.langchain.com/docs/get_started/introduction.html">langchain</a>, דרכה נדגים תשאול עבודה עם קבצי טקסט ו-CSV.<br /><br />
 <h2 id="דוגמה-מתוך-המחברות">דוגמה מתוך המחברות</h2>
 <p align="center"><img src="https://github.com/Sourasky-DHLAB/Whisper/blob/main/Resources/screenshot.png" /></p>
 </div>

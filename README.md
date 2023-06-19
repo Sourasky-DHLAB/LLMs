@@ -14,6 +14,6 @@
 <div dir="rtl">&nbsp;</div>
 <div dir="rtl">שתי המחברות משתמשות במסגרת פיתוח בשם <a href="https://gpt-index.readthedocs.io/en/latest/">llama index</a>, המאפשרת לחבר מקורות מידע שונים למודלי שפה גדולים. בעתיד הקרוב נוסיף מחברות המשתמשות במסגרת פיתוח דומה בשם <a href="https://python.langchain.com/docs/get_started/introduction.html">langchain</a>, דרכה נדגים תשאול עבודה עם קבצי טקסט ו-CSV.<br /><br />
 <h2 id="דוגמה-מתוך-המחברות">דוגמה מתוך המחברות</h2>
-<p align="center"><img src="https://github.com/Sourasky-DHLAB/Whisper/blob/main/Resources/screenshot.png" /></p>
+<p align="center"><img src="https://github.com/Sourasky-DHLAB/LLMs/blob/main/Resources/screenshot1.png" /></p>
 </div>
 </div>
